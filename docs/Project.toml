@@ -1,0 +1,3 @@
+[deps]
+DemoPackageSSD = "759aac32-7433-4e97-8b84-63c141af03d3"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
